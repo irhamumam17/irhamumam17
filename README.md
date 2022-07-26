@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Irham</h1>
 <h3 align="center">A Backend Developer who loves to find bugs and solve them. Updates and performance improvements are the news I look forward to the most from technological developments.</h3>
 
 <div align="left">
